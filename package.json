@@ -1,0 +1,8 @@
+{
+  "name": "se.telldus",
+  "version": "2.1.0",
+  "main": "app.js",
+  "dependencies": {
+    "homey-rfdriver": "^3.3.1"
+  }
+}
